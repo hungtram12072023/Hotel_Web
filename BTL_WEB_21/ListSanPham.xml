@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<ArrayOfSpham xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <spham>
+    <id>4</id>
+    <image>/App_Start/img/file_img/phongks3.jpg</image>
+    <room>Phòng No1</room>
+    <detail>Giành cho Nam giới</detail>
+    <price>5900000</price>
+  </spham>
+  <spham>
+    <id>5</id>
+    <image>/App_Start/img/file_img/phongks8.jpg</image>
+    <room>Phòng Trà</room>
+    <detail>Giành cho người cao tuổi</detail>
+    <price>4000000</price>
+  </spham>
+  <spham>
+    <id>6</id>
+    <image>/App_Start/img/file_img/phongks7.jpg</image>
+    <room>Khách sạn</room>
+    <detail>Giành cho các cặp đôi</detail>
+    <price>2900000</price>
+  </spham>
+  <spham>
+    <id>7</id>
+    <image>/App_Start/img/file_img/phongks5.jpg</image>
+    <room>Phòng No2</room>
+    <detail>Giành cho phụ nữ</detail>
+    <price>1850000</price>
+  </spham>
+  <spham>
+    <id>8</id>
+    <image>/App_Start/img/file_img/</image>
+    <room>Khách sạn</room>
+    <detail>Giành cho người lớn</detail>
+    <price>2000000</price>
+  </spham>
+  <spham>
+    <id>8</id>
+    <image>/App_Start/img/file_img/anhconten2.jpg</image>
+    <room>Phòng Vip</room>
+    <detail>Giành cho cặp đôi</detail>
+    <price>0</price>
+  </spham>
+  <spham>
+    <id>8</id>
+    <image>/App_Start/img/file_img/phongks6.jpg</image>
+    <room>Phòng Meet</room>
+    <detail>Giành cho cán bộ</detail>
+    <price>6500000</price>
+  </spham>
+  <spham>
+    <id>8</id>
+    <image>/App_Start/img/file_img/</image>
+    <room>Phòng Trà</room>
+    <detail>Giành cho người cao tuổi</detail>
+    <price>4000000</price>
+  </spham>
+</ArrayOfSpham>
